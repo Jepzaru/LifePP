@@ -1,0 +1,37 @@
+.appind{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.pri{
+    margin-left: 220px;
+    margin-top: -1000px;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+.free-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 250px;
+    background-color: black;
+    
+}
+.three-month{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 700px;
+    margin-top: -700px;
+    background-color: #E7E7E7;
+    
+}
